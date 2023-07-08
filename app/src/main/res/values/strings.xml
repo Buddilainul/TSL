@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TSL</string>
+    <string name="copyright">Copyrights 2023 by TSL</string>
+    <string name="needHelp">Need help?</string>
+    <string name="TSL">Travel Sri Lanka</string>
+    <string name="login">Log-In</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="verification">Verification</string>
+    <string name="next">Next</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgotpassword">Are you forget your password?</string>
+    <string name="clickhere">Click here</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="bday">Birth Day</string>
+    <string name="pnumber">Phone Number</string>
+    <string name="tripName">Trip Name</string>
+    <string name="reset">Reset</string>
+    <string name="resent">Re-sent</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender :</string>
+    <string name="vtext01">We will sent 4 digit code to your phone number</string>
+    <string name="vtext02">Please enter 4 digit code here</string>
+    <string name="otp">Enter Otp code</string>
+    <string name="userdetails">User Details</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search</string>
+    <string name="create">Create</string>
+    <string name="OTrip">Ongoing Trips</string>
+    <string name="PicLocation">Pick up location</string>
+    <string name="DropLocation">Destination</string>
+    <string name="PicVehicle">Pick a Vehicle </string>
+    <string name="greeting1">Hi, Good evening Inul 👋</string>
+    <string name="greeting2">It\'s Time to plan a trip 👨‍💻</string>
+    <string name="greeting3">It\'s Time to Find a Cab 🚕</string>
+
+
+</resources>

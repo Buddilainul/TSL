@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.1105" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/add_button.xml" value="0.2025" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/addbtn.xml" value="0.1105" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/back_arrow.xml" value="0.101" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/bell_vector.xml" value="0.177" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/card_view_fragment_top_radius.xml" value="0.1" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/edit_text_layout.xml" value="0.2145" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/full_trip_background.xml" value="0.134" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/gradient_background.xml" value="0.1" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/gradient_ongoing_trip_button.xml" value="0.152" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/history_vector.xml" value="0.177" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/ongoing_trip_btn.xml" value="0.1" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/round_btn.xml" value="0.2145" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/round_btn_02.xml" value="0.1815" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/search_vector.xml" value="0.177" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/drawable/user_circle.xml" value="0.177" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_find_a_cab_first_screen.xml" value="0.176" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_home_screen.xml" value="0.152" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_hotel_register_screen.xml" value="0.3625" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_log_in_screen.xml" value="0.264" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_maps.xml" value="0.23777173913043478" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_plan_atrip_first_screen.xml" value="0.2" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_register_screen.xml" value="0.264" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_splash_screen.xml" value="0.4" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_user_data.xml" value="0.3482789855072464" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_user_details_screen.xml" value="0.264" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/activity_verification_screen.xml" value="0.3482789855072464" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/add_new_trip.xml" value="0.2" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/full_trip_layout.xml" value="0.264" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/maps_layout.xml" value="0.23777173913043478" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/pickup_and_desination.xml" value="0.2" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/popup_suggestions.xml" value="0.1762917933130699" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/layout/suggestions_popup.xml" value="0.23143115942028986" />
+        <entry key="..\:/Open University/2nd year sem one/EEI4369 -Mobile Application Development for Android/Design Project/TSL/TSL/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1955" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

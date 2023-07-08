@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backcolor"
+    tools:context=".FindACabFirstScreen">
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/map_container"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="650dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintBottom_toBottomOf="@+id/fragment_container"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.096"
+        tools:context=".FindACabFirstScreen"/>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/cover_plan_atrip"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:alpha="0.9"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:shapeAppearanceOverlay="@style/roundimageviewSecond"
+        app:srcCompat="@drawable/cover" />
+
+    <ImageButton
+        android:id="@+id/backbutton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="25dp"
+        android:background="#55FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/cover_plan_atrip"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.04"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/cover_plan_atrip"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/back_arrow" />
+
+    <TextView
+        android:id="@+id/greeting"
+        android:layout_width="160dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="21dp"
+        android:text="@string/greeting3"
+        android:textColor="@color/black"
+        android:textSize="21sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/cover_plan_atrip"
+        app:layout_constraintEnd_toStartOf="@+id/userdata2"
+        app:layout_constraintHorizontal_bias="0.583"
+        app:layout_constraintStart_toEndOf="@+id/backbutton"
+        app:layout_constraintTop_toTopOf="@+id/cover_plan_atrip"
+        app:layout_constraintVertical_bias="0.215"/>
+
+
+    <ImageButton
+        android:id="@+id/userdata2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="22dp"
+        android:background="#55FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/cover_plan_atrip"
+        app:layout_constraintEnd_toStartOf="@+id/userdata3"
+        app:layout_constraintHorizontal_bias="0.95"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/cover_plan_atrip"
+        app:layout_constraintVertical_bias="0.228"
+        app:srcCompat="@drawable/bell_vector"/>
+
+    <ImageButton
+        android:id="@+id/userdata3"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="21dp"
+        android:background="#55FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/cover_plan_atrip"
+        app:layout_constraintEnd_toStartOf="@+id/userdata"
+        app:layout_constraintHorizontal_bias="0.968"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/cover_plan_atrip"
+        app:layout_constraintVertical_bias="0.214"
+        app:srcCompat="@drawable/history_vector"/>
+
+    <ImageButton
+        android:id="@+id/userdata"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="20dp"
+        android:background="#55FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/cover_plan_atrip"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.956"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/cover_plan_atrip"
+        app:layout_constraintVertical_bias="0.20999998"
+        app:srcCompat="@drawable/user_circle"/>
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.162" />
+
+    <!--    <AutoCompleteTextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="Enter a location"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/fragment_container"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/cover_plan_atrip"-->
+<!--        app:layout_constraintVertical_bias="1.0" />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
